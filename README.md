@@ -4,7 +4,7 @@ https://devnexus.com/
 
 ### Primary Demos
 
-*  https://github.com/david-streamlio/GottaEat-UI
+* https://github.com/david-streamlio/GottaEat-UI
 * https://github.com/tspannhw/airquality
 
 
@@ -20,6 +20,7 @@ https://devnexus.com/
 ### Pulsar Java Functions
 
 * https://github.com/tspannhw/pulsar-energy-function
+* https://github.com/tspannhw/pulsar-airquality-function
 
 ### Cool Examples
 
