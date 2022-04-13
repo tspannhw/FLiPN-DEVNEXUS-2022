@@ -138,7 +138,7 @@ function IsJsonString(str) {
 $(document).ready(function() {
     var t = $('#example').DataTable();
 
-var wsUri = "ws://98.110.25.253:8080/ws/v2/consumer/persistent/public/default/aq-pm25/aqrpm25-reader?subscriptionType=Shared&receiverQueueSize=5000";
+var wsUri = "ws://server:8080/ws/v2/consumer/persistent/public/default/aq-pm25/aqrpm25-reader?subscriptionType=Shared&receiverQueueSize=5000";
 
 websocket = new WebSocket(wsUri);
 websocket.onopen = function(evt) {
@@ -210,7 +210,7 @@ websocket.onmessage = function(evt) {
 $(document).ready(function() {
     var t1 = $('#pm10').DataTable();
 
-var wsUri1 = "ws://98.110.25.253:8080/ws/v2/consumer/persistent/public/default/aq-pm10/aqrpm10-reader?subscriptionType=Shared&receiverQueueSize=5000";
+var wsUri1 = "ws://server:8080/ws/v2/consumer/persistent/public/default/aq-pm10/aqrpm10-reader?subscriptionType=Shared&receiverQueueSize=5000";
 
 websocket1 = new WebSocket(wsUri1);
 websocket1.onopen = function(evt) {
@@ -282,7 +282,7 @@ websocket1.onmessage = function(evt) {
 $(document).ready(function() {
     var t2 = $('#ozone').DataTable();
 
-var wsUri2 = "ws://98.110.25.253:8080/ws/v2/consumer/persistent/public/default/aq-ozone/aqozone-reader?subscriptionType=Shared&receiverQueueSize=5000";
+var wsUri2 = "ws://server:8080/ws/v2/consumer/persistent/public/default/aq-ozone/aqozone-reader?subscriptionType=Shared&receiverQueueSize=5000";
 
 websocket2 = new WebSocket(wsUri2);
 websocket2.onopen = function(evt) {
