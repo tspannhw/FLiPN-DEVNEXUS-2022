@@ -6,6 +6,10 @@ https://devnexus.com/
 
 https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apache-nifi-apache-flink-apache-spark-and-apache-pulsar
 
+### Videos
+
+* https://youtu.be/tTyqcIqCo2M
+* 
 
 ### Primary Demos
 
@@ -31,3 +35,16 @@ https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apa
 
 * https://github.com/tspannhw/FLiPN-NFT
 * https://github.com/tspannhw/FLiP-SOLR
+
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/raw/main/airquality.png)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/airqualityapp2.png)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/airqualityarch.png)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/airqualityspringbootapp.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/aqnow_webfluxconfig.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/flinkSQL.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/nififlow1.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/nififlow2.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/nififlow3.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/nififlowairview.jpg?raw=true)
+![1](https://github.com/tspannhw/FLiPN-DEVNEXUS-2022/blob/main/nifiprocessgroup.jpg?raw=true)
+
