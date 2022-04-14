@@ -8,8 +8,9 @@ https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apa
 
 ### Videos
 
-* https://youtu.be/tTyqcIqCo2M
-* https://youtu.be/k8orQ8CiObY 
+* https://youtu.be/tTyqcIqCo2M <== Gas Thermal Demo
+* https://youtu.be/k8orQ8CiObY <== Air Quality Apache NiFi Demo
+* https://youtu.be/yYLLyiBo8nM <== Air Quality Spring Boot Demo
 
 ### Primary Demos
 
