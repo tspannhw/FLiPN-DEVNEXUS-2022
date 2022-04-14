@@ -1,5 +1,10 @@
-# FLiPN-DEVNEXUS-2022
+## FLiPN-DEVNEXUS-2022
+
 https://devnexus.com/
+
+### Slides
+
+https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apache-nifi-apache-flink-apache-spark-and-apache-pulsar
 
 
 ### Primary Demos
